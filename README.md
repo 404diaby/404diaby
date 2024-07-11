@@ -1,3 +1,3 @@
-### ✨ Front-End Developer!  ✨
+### ✨ Fullstack Developer !  ✨
 
 📍 [Portfolio ](https://diaby-mamadou.vercel.app/) 
